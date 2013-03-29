@@ -2,9 +2,9 @@ Mystik RPG is a Java 2D Tile Sandbox RPG.
 
 To put on webpage, create new HTML file and save as "play.html" or something like that and make sure the jar file is in same directory.
 
-<applet name="game" code="mystik.Game" archive="mystik-game.jar" width="630" height="521">
-<param name="name" value="Username_Here" />
-</applet>
+    <applet name="game" code="mystik.Game" archive="mystik-game.jar" width="630" height="521">
+    <param name="name" value="Username_Here" />
+    </applet>
 
 Things to note:
 
