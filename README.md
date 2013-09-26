@@ -1,3 +1,5 @@
+YES, reddit. /r/gamedev. I know my code sucks. It was my very first game. :(
+
 Mystik RPG is a Java 2D Tile Sandbox RPG.
 
 To put on webpage, create new HTML file and save as "play.html" or something like that and make sure the jar file is in same directory.
