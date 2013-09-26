@@ -1,4 +1,4 @@
-YES, reddit. /r/gamedev. I know my code sucks. It was my very first game. :(
+**YES, reddit. /r/gamedev. I know my code sucks. It was my very first game. :(**
 
 Mystik RPG is a Java 2D Tile Sandbox RPG.
 
