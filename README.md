@@ -16,14 +16,14 @@ tiles/ directory contains
 
 Your map and items/monster files are kept in APPDATA in the Roaming folder titled under ".mystik". If you search for ".mystik" in your computer, you should find it.
 
-Mystik RPG uses Google JSON reader for Java... but it's a bit out-dated so you're going to have to use an old version which you can get here: http://mystikrpg.com/gson-1.7.1.jar
+Mystik RPG uses Google JSON reader for Java... but it's a bit out-dated so you're going to have to use an old version which you can get here: http://mystikrpg.danjasnowski.com/gson-1.7.1.jar
 
 ===========
 
 How to install
 
 1. Make new Eclipse project
-2. Download gson-1.7.1.jar (http://mystikrpg.com/gson-1.7.1.jar) and add as "external jar" library
+2. Download gson-1.7.1.jar (http://mystikrpg.danjasnowski.com/gson-1.7.1.jar) and add as "external jar" library
 3. Download Java files, /tile/ directory and me.gif
 3. Drag-drop into /src folder
 4. Run as java-applet
