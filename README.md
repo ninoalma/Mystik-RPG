@@ -23,7 +23,6 @@ Mystik RPG uses Google JSON reader for Java... but it's a bit out-dated so you'r
 How to install
 
 1. Make new Eclipse project
-2. Download gson-1.7.1.jar (http://mystikrpg.danjasnowski.com/gson-1.7.1.jar) and add as "external jar" library
-3. Download Java files, /tile/ directory and me.gif
-3. Drag-drop into /src folder
-4. Run as java-applet
+2. Download gson-1.7.1.jar and add as "external jar" library
+3. Clone project via GitHub from your favorite IDE (Netbeans, Eclipse, IntelliJ IDEA, etc.)
+4. Run build
