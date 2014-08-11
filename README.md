@@ -1,4 +1,4 @@
-**This was my first 'real' game and thus the code is very wonky. Made in 2010, when I was learning. I know better now.**
+**This was my first 'real' game and thus the code is heavy. Made in 2010, when I was learning. I know better now.**
 
 Mystik RPG is a Java 2D Tile Sandbox RPG.
 
